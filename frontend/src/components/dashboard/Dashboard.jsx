@@ -4,7 +4,7 @@ const Dashboard = () => {
   return (
     <div className="dashboard-container">
       <div className="dashboard-header">
-        <h2>Dashboard</h2>
+        <h2 className="dashboard-title">Dashboard</h2>
       </div>
     </div>
   );
